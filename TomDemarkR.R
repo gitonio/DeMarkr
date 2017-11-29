@@ -1,6 +1,17 @@
 #FIGURE 1.1
-TomDemark("USDCAD=X","2007-12-07", "2008-01-07")
+x<-TomDemark("USDCAD=X","2007-12-07", "2008-01-07")
 #FIGURE 1.2
 x<-TomDemark("AUDJPY=X","2007-07-05", "2007-08-10")
+#FIGURE 1.3
+#U.S. 30-year bond
+#FIGURE 1.4
+#FIGURE 1.5
+#FIGURE 1.6
+x<-TomDemark("PFE","2007-07-05", "2007-10-20")
+#FIGURE 1.7
+x<-TomDemark("^USDOLLAR","2007-01-15", "2007-06-15")
+#FIGURE 1.8
+x<-TomDemark("GBPUSD=X","2007-05-05", "2007-08-07")
 
-x<-TomDemark("MSFT","2005-08-24", "2005-10-14")
+#FIGURE 1.15
+x<-TomDemark("MSFT","2005-08-26", "2005-11-14")
