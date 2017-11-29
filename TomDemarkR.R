@@ -1,0 +1,6 @@
+#FIGURE 1.1
+TomDemark("USDCAD=X","2007-12-07", "2008-01-07")
+#FIGURE 1.2
+x<-TomDemark("AUDJPY=X","2007-07-05", "2007-08-10")
+
+x<-TomDemark("MSFT","2005-08-24", "2005-10-14")
